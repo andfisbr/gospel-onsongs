@@ -1,0 +1,35 @@
+====================
+isSimplify: False
+Title: 634 - Oração pela Pátria
+Author: Harpa Cristã
+Key: 
+
+
+====================
+isSimplify: False
+Title: 474 - Paz, Doce Paz
+Author: Harpa Cristã
+Key: 
+
+
+====================
+isSimplify: False
+Title: 312 - A Vinda de Cristo
+Author: Harpa Cristã
+Key: 
+
+
+====================
+isSimplify: False
+Title: 257 - O Perdão Sem Igual
+Author: Harpa Cristã
+Key: 
+
+
+====================
+isSimplify: False
+Title: O sacrificio de abraão
+Author: Harpa Cristã
+Key: 
+
+

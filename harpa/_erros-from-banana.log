@@ -1,0 +1,15 @@
+https://www.bananacifras.com/cifra/h/harpa-crista/oracao-pela-patria
+HTTPSConnectionPool(host='www.bananacifras.com', port=443): Max retries exceeded with url: /cifra/h/harpa-crista/oracao-pela-patria (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 authenticationrequired')))
+
+https://www.bananacifras.com/cifra/h/harpa-crista/paz-doce-paz
+HTTPSConnectionPool(host='www.bananacifras.com', port=443): Max retries exceeded with url: /cifra/h/harpa-crista/paz-doce-paz (Caused by ProxyError('Unable to connect to proxy', OSError('Tunnel connection failed: 407 authenticationrequired')))
+
+https://www.bananacifras.com/cifra/h/harpa-crista/a-vinda-de-cristo
+'str' object has no attribute 'text'
+
+https://www.bananacifras.com/cifra/h/harpa-crista/oracao-pela-patria
+Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+
+https://www.bananacifras.com/cifra/h/harpa-crista/paz-doce-paz
+Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+

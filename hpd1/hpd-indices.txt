@@ -1,0 +1,494 @@
+HPD1; Advento; hpd001; lci364; Como hei de receber-te, benigno Redentor?
+HPD1; Advento; hpd002; lci357; Todo mundo louve a Deus
+HPD1; Advento; hpd003; lci362; A noite está findando, fulgente o dia vem
+HPD1; Advento; hpd004; lci354; Um barco carregado vem com preciso dom
+HPD1; Advento; hpd005; lci361; Erguei os arcos triunfais ao Rei dos reinos celestiais
+HPD1; Advento; hpd006; lci; De tua fonte, ó Deus sacia os peregrinos
+HPD1; Advento; hpd007; lci366; Cantai, ó piedosos, ao nosso Salvador
+HPD1; Advento; hpd008; lci; Alerta, ó consagrados, já vem chegando o Rei!
+HPD1; Advento; hpd009; lci359; Ó vinde em humildade vossa alma preparai
+HPD1; Advento; hpd010; lci; Quando as estrelas vão dormir
+HPD1; Advento; hpd011; lci365; Rejubila, filha de Sião, regozija-te, Jerusalém!
+HPD1; Nascimento de Cristo e Natal; hpd012; lci376; Louvamos-te, Cristo Senhor
+HPD1; Nascimento de Cristo e Natal; hpd013; lci373; Noite feliz, noite feliz
+HPD1; Nascimento de Cristo e Natal; hpd014; lci370; Cantai, cristãos a Deus louvai, pois hoje abriu o céu
+HPD1; Nascimento de Cristo e Natal; hpd015; lci386; Eu venho a vós dos altos céus, trazendo anúncio bom de Deus
+HPD1; Nascimento de Cristo e Natal; hpd016; lci384; Enquanto no campo pastores velavam
+HPD1; Nascimento de Cristo e Natal; hpd017; lci381; Ó vinde fiéis, alegres, triunfantes (adeste fideles),
+HPD1; Nascimento de Cristo e Natal; hpd018; lci; Louvado sejas, ó Jesus! Resplandece o céu em luz.
+HPD1; Nascimento de Cristo e Natal; hpd019; lci394; Vinde a Cristo, ó vinde unidos, corações agradecidos
+HPD1; Nascimento de Cristo e Natal; hpd020; lci379; Surgem anjos proclamando: Paz na terra e a Deus louvor!
+HPD1; Nascimento de Cristo e Natal; hpd021; lci; Pastores, corramos, alegres vejamos o que Deus nos quer revelar em Belém!
+HPD1; Nascimento de Cristo e Natal; hpd022; lci391; Este é o dia do Senhor, lembrai-vos dele com louvor
+HPD1; Nascimento de Cristo e Natal; hpd023; lci; Meu Deus, teu festival de luz visa o aflito sofredor
+HPD1; Nascimento de Cristo e Natal; hpd024; lci374; Ó vinde, meninos, não falte ninguém!
+HPD1; Nascimento de Cristo e Natal; hpd025; lci388; Com júbilo cantai, alegres anunciai
+HPD1; Nascimento de Cristo e Natal; hpd026; lci395; Ao pé da manjedoura estou, Jesus, ó minha vida
+HPD1; Nascimento de Cristo e Natal; hpd027; lci; Ergue-te, minha alma, e canta em louvor ao Senhor
+HPD1; Nascimento de Cristo e Natal; hpd028; lci; Eis, nesta noite me aparece o amor divino, a salvação
+HPD1; Nascimento de Cristo e Natal; hpd029; lci383; Jubiloso, venturoso tempo de Natal!
+HPD1; Nascimento de Cristo e Natal; hpd030; lci; Ó exulta, cristandade, sua graça o Pai nos deu
+HPD1; Nascimento de Cristo e Natal; hpd031; lci372; Quero ir com os pastores e render a Deus louvores
+HPD1; Nascimento de Cristo e Natal; hpd032; lci; Renovo mui delgado brotou em tênue pé
+HPD1; Nascimento de Cristo e Natal; hpd033; lci375; Pastores, olhai, do sono acordai!
+HPD1; Ano Novo; hpd034; lci; Já finda, silencioso, este ano do Senhor
+HPD1; Ano Novo; hpd035; lci396; Os olhos levantemos e ao nosso Deus cantemos
+HPD1; Ano Novo; hpd036; lci; Eis, num ano novo entramos; vem, Jesus, nos acudir!
+HPD1; Ano Novo; hpd037; lci398; No ano novo só Jesus seja o lema que nos guia
+HPD1; Epifania; hpd038; lci; Estrela d'alva, o teu fulgor revela a graça do Senhor
+HPD1; Epifania; hpd039; lci402; Vem a luz, alegremente, vem, ó povo do Senhor!
+HPD1; Epifania; hpd040; lci404; Veio Jesus, manancial da alegria, veio o Senhor - o princípio e o fim
+HPD1; Epifania; hpd041; lci401; Linda estrela, meu Jesus, em Belém aparecida
+HPD1; Epifania; hpd042; lci; Ó Cristo, verdadeira luz, vem, ilumina, meu Jesus
+HPD1; Paixão de Cristo; hpd043; lci410; Leva um cordeiro a transgressão
+HPD1; Paixão de Cristo; hpd044; lci413; Na cruz eu quero te saudar
+HPD1; Paixão de Cristo; hpd045; lci408; Um desejo ardente em mim existe
+HPD1; Paixão de Cristo; hpd046; lci405; Agradecemos-te, Jesus. Por nós sofreste amarga cruz.
+HPD1; Paixão de Cristo; hpd047; lci424; Ó Jesus teu sofrimento
+HPD1; Paixão de Cristo; hpd048; lci426; Ó, meu Jesus, que mal tu cometeste
+HPD1; Paixão de Cristo; hpd049; lci266; Ó Jesus, cordeiro, tiras o pecado e o mal
+HPD1; Paixão de Cristo; hpd050; lci; Nossos corações pertencem ao varão de Gólgota
+HPD1; Paixão de Cristo; hpd051; lci411; Cristo, manancial da vida
+HPD1; Paixão de Cristo; hpd052; lci407; Todos nós, contigo reunidos
+HPD1; Paixão de Cristo; hpd053; lci425; Ó fronte ensangüentada
+HPD1; Paixão de Cristo; hpd054; lci; Cristo, quero meditar no teu sofrimento
+HPD1; Paixão de Cristo; hpd055; lci270; Cordeiro imaculado
+HPD1; Paixão de Cristo; hpd056; lci414; Ó Jesus, Senhor amado, meu bendito Salvador
+HPD1; Ressurreição de Cristo e Páscoa; hpd057; lci406; Cristo entregou-se à morte
+HPD1; Ressurreição de Cristo e Páscoa; hpd058; lci435; Perdeu a morte o seu poder; Jesus teve a vitória
+HPD1; Ressurreição de Cristo e Páscoa; hpd059; lci443; Louvai a Deus em alta voz, porque mandou seu Filho a nós
+HPD1; Ressurreição de Cristo e Páscoa; hpd060; lci451; Com alegria e fervor cantemos glória ao Criador!
+HPD1; Ressurreição de Cristo e Páscoa; hpd061; lci441; Cristo ressuscitou
+HPD1; Ressurreição de Cristo e Páscoa; hpd062; lci448; Agradecemos-te, ó Jesus
+HPD1; Ressurreição de Cristo e Páscoa; hpd063; lci; Desperta! a noite há de ceder
+HPD1; Ressurreição de Cristo e Páscoa; hpd064; lci; Bem vindo, herói potente, do cárcere sombrio!
+HPD1; Ressurreição de Cristo e Páscoa; hpd065; lci438; Desperta em alegria
+HPD1; Ressurreição de Cristo e Páscoa; hpd066; lci446; Bem cedo, quando nasce
+HPD1; Ressurreição de Cristo e Páscoa; hpd067; lci434; Cristo venceu a morte. Bendita a nossa sorte!
+HPD1; Ressurreição de Cristo e Páscoa; hpd068; lci; Da morte o Cristo ressurgiu
+HPD1; Ressurreição de Cristo e Páscoa; hpd069; lci; Creio que o dia virá
+HPD1; Ressurreição de Cristo e Páscoa; hpd070; lci; Glorioso o dia já raiou
+HPD1; Ressurreição de Cristo e Páscoa; hpd071; lci445; Hoje estou tão alegre
+HPD1; Ressurreição de Cristo e Páscoa; hpd072; lci453; Do sepulcro ressurgiu, aleluia!
+HPD1; Ascensão de Cristo; hpd073; lci455; Pela ascensão de meu Senhor
+HPD1; Ascensão de Cristo; hpd074; lci; Subiu aos altos céus
+HPD1; Ascensão de Cristo; hpd075; lci; Ó grande herói, triunfador
+HPD1; Pentecostes e Espírito Santo; hpd076; lci461; Espírito, Verdade, em nós vem habitar
+HPD1; Pentecostes e Espírito Santo; hpd077; lci; Espírito sagrado, vem
+HPD1; Pentecostes e Espírito Santo; hpd078; lci459; Santo Espírito clemente
+HPD1; Pentecostes e Espírito Santo; hpd079; lci465; Vem, Espírito da vida
+HPD1; Pentecostes e Espírito Santo; hpd080; lci457; Vem, hóspede bendito
+HPD1; Pentecostes e Espírito Santo; hpd081; lci463; Espírito, Deus, ó santo Senhor, nas aflições consolador
+HPD1; Pentecostes e Espírito Santo; hpd082; lci469; Ó Santo Espírito do Senhor
+HPD1; Pentecostes e Espírito Santo; hpd083; lci; Dia jubiloso, triunfal
+HPD1; Pentecostes e Espírito Santo; hpd084; lci; Espírito de Deus, fiel Consolador
+HPD1; Pentecostes e Espírito Santo; hpd085; lci462; Vem, Espírito divino, grande ensinador
+HPD1; Trindade; hpd086; lci147; Somente a Deus no céu louvor e alegre canto ergamos
+HPD1; Trindade; hpd087; lci146; Louvado seja Deus, Senhor onipotente
+HPD1; Trindade; hpd088; lci193; Nós cremos todos num só Deus
+HPD1; Trindade; hpd089; lci498; Conosco fica, fiel Jesus, pois já morreu do dia a luz
+HPD1; Igreja e o Povo de Deus; hpd090; lci513; Deus, o teu Verbo guarda a nós, combate o inimigo atroz
+HPD1; Igreja e o Povo de Deus; hpd091; lci; No fulgor, no fulgor, segue, povo do Senhor!
+HPD1; Igreja e o Povo de Deus; hpd092; lci493; Sol da graça, luz de amor
+HPD1; Igreja e o Povo de Deus; hpd093; lci; Que o fogo teu em breve ardesse
+HPD1; Igreja e o Povo de Deus; hpd094; lci013; Corações em fé unidos, vinde à paz do bom Senhor
+HPD1; Igreja e o Povo de Deus; hpd095; lci519; Jesus Cristo é rei e Senhor, seu é o reino e o louvor
+HPD1; Igreja e o Povo de Deus; hpd096; lci509; A Jesus só pertencemos, por sua morte recebemos a vida eterna, a salvação
+HPD1; Igreja e o Povo de Deus; hpd097; lci481; Deus é castelo forte e bom (Forma A)
+HPD1; Igreja e o Povo de Deus; hpd097; lci482; Deus é castelo forte e bom (Forma B)
+HPD1; Igreja e o Povo de Deus; hpd098; lci577; Qual barco singra pelo mar a igreja do Senhor
+HPD1; Igreja e o Povo de Deus; hpd099; lci307; Ide em paz a vossa via: a graça do Senhor vos guia
+HPD1; Igreja e o Povo de Deus; hpd100; lci; Longe e perto, com vigor, age, Verbo do Senhor
+HPD1; Igreja e o Povo de Deus; hpd101; lci; Acorda, espírito alteroso
+HPD1; Igreja e o Povo de Deus; hpd102; lci525; Um rebanho e um pastor haverá no grande dia
+HPD1; Igreja e o Povo de Deus; hpd103; lci; Deus, ó guarda de Israel
+HPD1; Igreja e o Povo de Deus; hpd104; lci528; Deus é Senhor, nosso rei
+HPD1; Igreja e o Povo de Deus; hpd105; lci; O Verbo teu em nós acende
+HPD1; Igreja e o Povo de Deus; hpd106; lci; Clemência dá-nos, ó Senhor
+HPD1; Igreja e o Povo de Deus; hpd107; lci625; Bem de manhã, embora p céu sereno
+HPD1; Igreja e o Povo de Deus; hpd108; lci505; Preserva em tua graça, teu povo, ó Salvador
+HPD1; Igreja e o Povo de Deus; hpd109; lci573; Da Igreja é fundamento Jesus, o Salvador
+HPD1; Domingo e Culto; hpd110; lci011; Chegou o dia do Senhor
+HPD1; Domingo e Culto; hpd111; lci; Paz do céu venha abrandando
+HPD1; Domingo e Culto; hpd112; lci012; Ó vem a nós, Senhor Jesus, do Espírito nos manda a luz!
+HPD1; Domingo e Culto; hpd113; lci030; Ó querido e bom Jesus, para ouvir-te aqui estamos
+HPD1; Domingo e Culto; hpd114; lci022; Os teus servos reunidos em sagrada união
+HPD1; Domingo e Culto; hpd115; lci621; Deus, teu Verbo, o dom precioso
+HPD1; Domingo e Culto; hpd116; lci024; Vinde abrir-me a porta bela, que no teu templo possa entrar
+HPD1; Domingo e Culto; hpd117; lci576; Jesus, pastor amado! Reunidos hoje aqui
+HPD1; Domingo e Culto; hpd118; lci300; Deus vos guarde pelo seu poder, protegidos, abençoados
+HPD1; Domingo e Culto; hpd119; lci290; Chuvas de bênçãos teremos
+HPD1; Domingo e Culto; hpd120; lci023; Ó Cristo bendito
+HPD1; Domingo e Culto; hpd121; lci633; Meu coração, Deus, vem abrir, vem pelo Verbo atrair
+HPD1; Domingo e Culto; hpd122; lci; Para a luta nos guarnece
+HPD1; Domingo e Culto; hpd123; lci018; O nosso encontro vai ser
+HPD1; Domingo e Culto; hpd124; lci014; Deus está presente, todos o adoremos
+HPD1; Domingo e Culto; hpd125; lci242; Santo, santo, santo! Deus onipotente!
+HPD1; Domingo e Culto; hpd126; lci284; Abençoa, Pai celeste
+HPD1; Domingo e Culto; hpd127; lci; Teu santo livro, excelso Deus
+HPD1; Domingo e Culto; hpd128; lci145; A ti, Senhor, meu Deus
+HPD1; Domingo e Culto; hpd129; lci; Deus eterno e poderos,tudo está sujeito a ti
+HPD1; Domingo e Culto; hpd130; lci029; Senhor, tu nos chamaste, portanto estou aqui
+HPD1; Domingo e Culto; hpd131; lci291; Abençoa tu, Senhor, a saída, a nossa entrada
+HPD1; Domingo e Culto; hpd132; lci617; Fonte da celeste vida, vem, descobre o teu poder!
+HPD1; Domingo e Culto; hpd133; lci001; A graça de nosso Senhor
+HPD1; Batismo e Confirmação; hpd134; lci315; Nós estamos, Cristo, aqui a cumprir o teu ensino
+HPD1; Batismo e Confirmação; hpd135; lci311; Com gratidão e alegria
+HPD1; Batismo e Confirmação; hpd136; lci; O testamento do Senhor
+HPD1; Batismo e Confirmação; hpd137; lci314; Fui em teu nome batizado, ó Trino Deus, fiel Senhor
+HPD1; Batismo e Confirmação; hpd138; lci310; Trazemos esta criança
+HPD1; Batismo e Confirmação; hpd139; lci; Em nome do Pai batizamos
+HPD1; Batismo e Confirmação; hpd140; lci; Ó vem, meu Criador
+HPD1; A Ceia do Senhor; hpd141; lci280; Em gratidão nós chegamos a ti, a tua mesa, cantando louvor
+HPD1; A Ceia do Senhor; hpd142; lci; Ó vinde, convidados, amados do Senhor
+HPD1; A Ceia do Senhor; hpd143; lci281; Orna-te, minh'alma amada
+HPD1; A Ceia do Senhor; hpd144; lci; Na casa de Deus há paz
+HPD1; A Ceia do Senhor; hpd145; lci274; Em noite tenebrosa, Jesus, partiste o pão
+HPD1; A Ceia do Senhor; hpd146; lci278; Tu queres ver unido teu povo a ti Senhor
+HPD1; Culpa, Arrependimento e Perdão; hpd147; lci043; Das profundezas clamo a ti
+HPD1; Culpa, Arrependimento e Perdão; hpd148; lci051; Cristo acolhe o pecador: Anunciai-o a toda a gente
+HPD1; Culpa, Arrependimento e Perdão; hpd149; lci042; Liberta-nos, fiel Senhor
+HPD1; Culpa, Arrependimento e Perdão; hpd150; lci036; Se sofrimento te causei
+HPD1; Culpa, Arrependimento e Perdão; hpd151; lci; Não quero, diz-nos o Senhor
+HPD1; Culpa, Arrependimento e Perdão; hpd152; lci; Senhor Jesus, meu redentor
+HPD1; Fé e Justificação; hpd153; lci047; Achei um firme ancoradouro, que dá sossego ao coração
+HPD1; Fé e Justificação; hpd154; lci550; Quem conhece o velho Abraão
+HPD1; Fé e Justificação; hpd155; lci484; Cristãos, alegres jubilai, felizes exultando
+HPD1; Fé e Justificação; hpd156; lci500; Chegou a nós a salvação por graça e por bondade
+HPD1; Fé e Justificação; hpd157; lci516; Por sua paternal bondade
+HPD1; Fé e Justificação; hpd158; lci; Da terra a plenitude
+HPD1; Fé e Justificação; hpd159; lci630; Creia sempre, sem cessar, siga em fé sem vacilar
+HPD1; Fé e Justificação; hpd160; lci495; Se Deus está comigo, eu tudo hei de enfrentar
+HPD1; Fé e Justificação; hpd161; lci614; Em nada ponho a minha fé senão na graça de Jesus
+HPD1; Santificação, Discipulado e Serviço; hpd162; lci; Renova-me, ó eterna luz! A tua face, meu Jesus, me aclare
+HPD1; Santificação, Discipulado e Serviço; hpd163; lci040; Deus, dá-me um puro coração! impede entrada à transgressão
+HPD1; Santificação, Discipulado e Serviço; hpd164; lci; Vinde, meninos, vinde a Jesus
+HPD1; Santificação, Discipulado e Serviço; hpd165; lci582; Há sinais de paz e de graça
+HPD1; Santificação, Discipulado e Serviço; hpd166; lci; Dá-nos olhos claros que vêem o irmão
+HPD1; Santificação, Discipulado e Serviço; hpd167; lci; Eis-nos, aqui nós estamos
+HPD1; Santificação, Discipulado e Serviço; hpd168; lci; Entre Jericó e Jerusalém
+HPD1; Santificação, Discipulado e Serviço; hpd169; lci; As minhas mãos a ti estendo, pois vi que é falho o meu poder
+HPD1; Santificação, Discipulado e Serviço; hpd170; lci568; Nem só palavra é amor
+HPD1; Santificação, Discipulado e Serviço; hpd171; lci; Uma coisa só importa
+HPD1; Santificação, Discipulado e Serviço; hpd172; lci; Se te servimos, bom Senhor
+HPD1; Santificação, Discipulado e Serviço; hpd173; lci; Hoje põe-te em prontidão, vela, roga, implora
+HPD1; Santificação, Discipulado e Serviço; hpd174; lci627; Por tua mão me guia, meu Salvador
+HPD1; Santificação, Discipulado e Serviço; hpd175; lci050; Justiça e sangue de Jesus são meu adorno, minha luz
+HPD1; Santificação, Discipulado e Serviço; hpd176; lci; Deus, teu amor é qual paisagem
+HPD1; Santificação, Discipulado e Serviço; hpd177; lci512; Segui-me, diz Cristo, o Senhor
+HPD1; Santificação, Discipulado e Serviço; hpd178; lci; Andando com Cristo
+HPD1; Santificação, Discipulado e Serviço; hpd179; lci; Eu sou um peregrinador
+HPD1; Santificação, Discipulado e Serviço; hpd180; lci; Deus faz pregar seu evangelho
+HPD1; Santificação, Discipulado e Serviço; hpd181; lci571; Viver com Jesus é cantar
+HPD1; Santificação, Discipulado e Serviço; hpd182; lci; Despertai, pois Deus vos chama! Seu santo fogo vos inflama
+HPD1; Santificação, Discipulado e Serviço; hpd183; lci491; Senhor Jesus, eu clamo a ti
+HPD1; Santificação, Discipulado e Serviço; hpd184; lci; Vamos nós trabalhar, somos servos de Deus
+HPD1; Santificação, Discipulado e Serviço; hpd185; lci259; Deus Pai, no reino celestial
+HPD1; Santificação, Discipulado e Serviço; hpd186; lci; Ó Cristo, sol da graça
+HPD1; Santificação, Discipulado e Serviço; hpd187; lci523; Jesus Cristo reina em glória, teve esplêndida vitória
+HPD1; Santificação, Discipulado e Serviço; hpd188; lci; A Jesus fiéis sigamos
+HPD1; Santificação, Discipulado e Serviço; hpd189; lci594; Eu quero pertencer-te, ó meu fiel Senhor!
+HPD1; Missão e Evangelização; hpd190; lci; Real poder me foi dado
+HPD1; Missão e Evangelização; hpd191; lci172; Não temas, pois que eu
+HPD1; Missão e Evangelização; hpd192; lci587; Tal qual estou, sem demorar, a ti me venho consagrar
+HPD1; Missão e Evangelização; hpd193; lci; Quem procurar a salvação, entregue a vida a Cristo
+HPD1; Missão e Evangelização; hpd194; lci160; Como tu queres, Senhor
+HPD1; Missão e Evangelização; hpd195; lci170; Meu irmão, tu precisas falar com Jesus nesta tua solidão
+HPD1; Missão e Evangelização; hpd196; lci; Se não houver quem profetize
+HPD1; Missão e Evangelização; hpd197; lci150; Buscai primeiro o reino de Deus e sua justiça
+HPD1; Missão e Evangelização; hpd198; lci585; Oh, bem cego eu andei
+HPD1; Missão e Evangelização; hpd199; lci157; Buscai-me e vivei
+HPD1; Amor a Jesus; hpd200; lci440; Cantai e folgai! O Messias chegou!
+HPD1; Amor a Jesus; hpd201; lci; Enquanto, ó Salvador
+HPD1; Amor a Jesus; hpd202; lci600; Sou cordeiro de Jesus, vivo bem na sua luz
+HPD1; Amor a Jesus; hpd203; lci507; Santo amor, que me criaste
+HPD1; Amor a Jesus; hpd204; lci606; Sempre quero estar contigo
+HPD1; Amor a Jesus; hpd204; lci607; Sempre quero estar contigo
+HPD1; Amor a Jesus; hpd205; lci; Meu Salvador, eu quero amar-te; amar-te quero, adorno meu
+HPD1; Amor a Jesus; hpd206; lci590; Quão bondoso amigo é Cristo! Revelou-nos seu amor
+HPD1; Amor a Jesus; hpd207; lci; Sem Jesus tudo está perdido
+HPD1; Amor a Jesus; hpd208; lci487; Ó minh'alegria
+HPD1; Amor a Jesus; hpd209; lci581; Deus sempre me ama, co'amor me chama
+HPD1; Amor a Jesus; hpd210; lci604; Guia-nos, Jesus, pela tua luz!
+HPD1; Amor a Jesus; hpd211; lci527; Rei soberano sobre o céu e a terra, vero homem, vero Deus!
+HPD1; Confiança em Deus; hpd212; lci038; Se na maior angústia e cruz
+HPD1; Confiança em Deus; hpd213; lci113; Senhor, tu tens sido o nosso refúgio de geração em geração
+HPD1; Confiança em Deus; hpd214; lci503; Quem só em Deus, o Pai, confia
+HPD1; Confiança em Deus; hpd215; lci; Em ti eu esperei, Senhor
+HPD1; Confiança em Deus; hpd216; lci612; Se as águas do mar da vida quiserem te afogar, segura na mão de Deus
+HPD1; Confiança em Deus; hpd217; lci637; Confia o teu caminho a teu fiel Senhor!
+HPD1; Confiança em Deus; hpd218; lci589; Deus fará que a tua vida
+HPD1; Confiança em Deus; hpd219; lci602; Ó minh'alma, espera em teu Senhor!
+HPD1; Confiança em Deus; hpd220; lci518; Bendito aquele que anda em santidade e amor
+HPD1; Confiança em Deus; hpd221; lci610; Senhor, porque me guarda a tua mão - confio em ti
+HPD1; Confiança em Deus; hpd222; lci499; Quem no mundo há de magoar-me
+HPD1; Confiança em Deus; hpd223; lci514; De Deus não me desvio
+HPD1; Confiança em Deus; hpd224; lci494; Conosco seja a graça de nosso Salvador
+HPD1; Confiança em Deus; hpd225; lci; Jesus provou Getsêmani
+HPD1; Confiança em Deus; hpd226; lci510; Irei por onde Deus quiser
+HPD1; Confiança em Deus; hpd227; lci; Veja a terra, é de Deus
+HPD1; Confiança em Deus; hpd228; lci489; Em todo o meu trabalho
+HPD1; Confiança em Deus; hpd229; lci641; Os que confiam no Senhor são como o monte de Sião
+HPD1; Confiança em Deus; hpd230; lci485; Só em Deus confia, Ele te auxilia
+HPD1; Confiança em Deus; hpd231; lci; Nas mãos de meu fiel Senhor
+HPD1; Confiança em Deus; hpd232; lci; Bondade e misericórdia certamente me seguirão
+HPD1; Graças, Louvor e Adoração; hpd233; lci470; Até aqui me trouxe Deus; guiou-me com bondade
+HPD1; Graças, Louvor e Adoração; hpd234; lci475; Graças rendei a Deus
+HPD1; Graças, Louvor e Adoração; hpd235; lci164; Seu nome é maravilhoso
+HPD1; Graças, Louvor e Adoração; hpd236; lci547; Sabes quantas estrelinhas lá no firmamento estão?
+HPD1; Graças, Louvor e Adoração; hpd237; lci479; Graças dou por esta vida
+HPD1; Graças, Louvor e Adoração; hpd238; lci474; Ó terras, todas celebrai! Com júbilo ao Senhor cantai!
+HPD1; Graças, Louvor e Adoração; hpd239; lci478; Damos graças ao Senhor, damos graças, graças pelo seu amor
+HPD1; Graças, Louvor e Adoração; hpd240; lci501; Louvor cantai de coração
+HPD1; Graças, Louvor e Adoração; hpd241; lci517; Com gratidão ao nosso Deus dai glórias e louvor
+HPD1; Graças, Louvor e Adoração; hpd242; lci496; Dai graças ao Senhor, louvai seu nome santo
+HPD1; Graças, Louvor e Adoração; hpd243; lci598; Ó Senhor dos altos céus, tua força enaltecemos
+HPD1; Graças, Louvor e Adoração; hpd244; lci; Cantarei ao Pai amado
+HPD1; Graças, Louvor e Adoração; hpd245; lci; Louvor cantai, vós juvenis cantores
+HPD1; Graças, Louvor e Adoração; hpd246; lci511; Alma, bendize o Senhor poderoso da glória
+HPD1; Graças, Louvor e Adoração; hpd247; lci; Glória e louvor cantemos
+HPD1; Graças, Louvor e Adoração; hpd248; lci073; Ontem, hoje e para sempre Cristo é meu Senhor
+HPD1; Graças, Louvor e Adoração; hpd249; lci472; Graças, Senhor, eu rendo muitas graças por este novo dia
+HPD1; Graças, Louvor e Adoração; hpd250; lci; Louvai cantando a compaixão
+HPD1; Graças, Louvor e Adoração; hpd251; lci608; Eu canto quando bem quiser, ninguém vai proibir
+HPD1; Graças, Louvor e Adoração; hpd252; lci506; A Deus rendei louvores
+HPD1; Graças, Louvor e Adoração; hpd253; lci183; Glorificado seja teu nome
+HPD1; Graças, Louvor e Adoração; hpd254; lci623; Senhor, meu Deus, quando eu maravilhado
+HPD1; Graças, Louvor e Adoração; hpd255; lci236; Santo, santo, santo - santo é o Senhor!
+HPD1; Graças, Louvor e Adoração; hpd256; lci603; Louvado sejas, Pai e Deus
+HPD1; Graças, Louvor e Adoração; hpd257; lci486; Minha alma entoa um hino de exaltação a Deus
+HPD1; Graças, Louvor e Adoração; hpd258; lci046; Louvai a Deus de coração
+HPD1; Graças, Louvor e Adoração; hpd259; lci143; Bendito seja o Deus do amor
+HPD1; Graças, Louvor e Adoração; hpd260; lci121; Cantai ao Senhor um cântico novo
+HPD1; Graças, Louvor e Adoração; hpd261; lci611; Ó, que mil línguas eu tivesse e bocas mil para cantar
+HPD1; Graças, Louvor e Adoração; hpd262; lci502; Ó alegria, vem, alumia treva e mal com tua luz!
+HPD1; Graças, Louvor e Adoração; hpd263; lci101; Bendirei ao Senhor em todo o tempo
+HPD1; Graças, Louvor e Adoração; hpd264; lci173; Nome sobre todo o nome é o nome do meu Cristo
+HPD1; Manhã; hpd265; lci; Nasceu o sol a fulgurar
+HPD1; Manhã; hpd266; lci; O dia nasce, jubiloso
+HPD1; Manhã; hpd267; lci; Ao acordar-me, Deus, Senhor
+HPD1; Manhã; hpd268; lci; Ao despertar o dia
+HPD1; Manhã; hpd269; lci; Nasce o dia, fulguroso
+HPD1; Manhã; hpd270; lci144; Senhor, rendemos, gratidão
+HPD1; Manhã; hpd271; lci339; O sol fulgente, resplandecente
+HPD1; Manhã; hpd272; lci; Criador onipotente
+HPD1; Manhã; hpd273; lci497; O dia nasce com fulgor
+HPD1; Manhã; hpd274; lci338; Louvor rendamos, nós, que a Deus honramos!
+HPD1; Manhã; hpd275; lci; O dia nasce em esplendor
+HPD1; Manhã; hpd276; lci; Linda aurora, luz sem par
+HPD1; Manhã; hpd277; lci337; Minha alma, acorda e canta
+HPD1; Noite; hpd278; lci345; Supremo adorno és tu, Jesus
+HPD1; Noite; hpd279; lci; Declina o sol com seu fulgor
+HPD1; Noite; hpd280; lci349; O dia, a luz és tu, Senhor. Ninguém se oculta  teu fulgor
+HPD1; Noite; hpd281; lci344; Veio a noite, a escuridão
+HPD1; Noite; hpd282; lci348; Ó vem, Senhor, o dia declinou
+HPD1; Noite; hpd283; lci352; O dia passou, louvai a Deus
+HPD1; Noite; hpd284; lci347; Ao pôr-se o sol, ó Deus
+HPD1; Matrimônio, Lar e Profissão; hpd285; lci599; Sede unidos no Senhor
+HPD1; Matrimônio, Lar e Profissão; hpd286; lci477; Obrigado, Pai celeste, pelas bênçãos que nos deste
+HPD1; Matrimônio, Lar e Profissão; hpd287; lci207; Ó Deus onipotente, a tua mão clemente
+HPD1; Matrimônio, Lar e Profissão; hpd288; lci; O o que Deus uniu
+HPD1; Matrimônio, Lar e Profissão; hpd289; lci; Na esperança em Jesus Cristo
+HPD1; Matrimônio, Lar e Profissão; hpd290; lci583; Ó Deus, benigno Deus, ó fonte de bondade
+HPD1; Matrimônio, Lar e Profissão; hpd291; lci302; A paz nos queiras conceder
+HPD1; Esperança, Morte e Vida Eterna; hpd292; lci332; Quem sabe o termo desta vida
+HPD1; Esperança, Morte e Vida Eterna; hpd293; lci326; Quão inglória e transitória
+HPD1; Esperança, Morte e Vida Eterna; hpd294; lci; Nas chagas de meu Salvador
+HPD1; Esperança, Morte e Vida Eterna; hpd295; lci; Findou-se a minha vida
+HPD1; Esperança, Morte e Vida Eterna; hpd296; lci; Morrendo os pequeninos
+HPD1; Esperança, Morte e Vida Eterna; hpd297; lci330; Morrer em ti, ditoso
+HPD1; Esperança, Morte e Vida Eterna; hpd298; lci323; Jesus Cristo é meu Senhor
+HPD1; Esperança, Morte e Vida Eterna; hpd299; lci; O corpo vamos sepultar
+HPD1; Esperança, Morte e Vida Eterna; hpd300; lci324; Jesus é minha vida, na morte hei de vencer
+HPD1; Esperança, Morte e Vida Eterna; hpd301; lci; Em meu fiel Senhor confio em medo e dor
+HPD1; Esperança, Morte e Vida Eterna; hpd302; lci; Cidade sem santuário, na qual habita Deus
+HPD1; Esperança, Morte e Vida Eterna; hpd303; lci; Irmão, descansa em paz
+HPD1; Esperança, Morte e Vida Eterna; hpd304; lci; Ó Cristo, não me deixes só
+HPD1; Esperança, Morte e Vida Eterna; hpd305; lci521; Acordai! a sentinela a vinda do Senhor revela: Acorda, povo de Jesus!
+HPD1; Esperança, Morte e Vida Eterna; hpd306; lci529; A noite termina
+HPD2; Advento; hpd307; lci; Magnificat
+HPD2; Advento; hpd308; lci358; Advento é tempo de preparação
+HPD2; Advento; hpd309; lci363; Então se verá
+HPD2; Advento; hpd310; lci356; Da cepa brotou a rama
+HPD2; Nascimento de Cristo e Natal; hpd311; lci; Quando completou-se o tempo
+HPD2; Nascimento de Cristo e Natal; hpd312; lci; Natal é vida que nasce
+HPD2; Nascimento de Cristo e Natal; hpd313; lci389; Proclamam anjos mil
+HPD2; Ano Novo; hpd314; lci399; De bons poderes
+HPD2; Ressurreição de Cristo e Páscoa; hpd315; lci450; Cristo está vivo
+HPD2; Ressurreição de Cristo e Páscoa; hpd316; lci439; Semente de libertação
+HPD2; Ascensão de Cristo; hpd317; lci; Rei dos reis, Senhor dos senhores
+HPD2; Pentecostes e Espírito Santo; hpd318; lci; Vem, Espírito de Deus
+HPD2; Pentecostes e Espírito Santo; hpd319; lci468; Vem, Espírito Santo
+HPD2; Pentecostes e Espírito Santo; hpd320; lci460; Espírito santo de Deus
+HPD2; Pentecostes e Espírito Santo; hpd321; lci466; Vento que anima
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd322; lci; Família de Deus
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd323; lci322; O profeta
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd324; lci; Aqui você tem lugar
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd325; lci006; Aqui você tem lugar
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd326; lci580; O povo de Deus
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd327; lci572; Unidos no Espírito
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd328; lci578; Um só rebanho, um só Pastor
+HPD2; Igreja e o Povo de Deus, Ecumene; hpd329; lci; Lançar as redes
+HPD2; Cânticos de Entrada; hpd330; lci005; Aqui chegando, Senhor
+HPD2; Cânticos de Entrada; hpd331; lci; Aqui estamos, Senhor
+HPD2; Cânticos de Entrada; hpd332; lci; Deus está aqui
+HPD2; Cânticos de Entrada; hpd333; lci008; Canção da chegada
+HPD2; Cânticos de Entrada; hpd334; lci007; Bom é estarmos unidos
+HPD2; Cânticos de Entrada; hpd335; lci; Onde dois ou três em meu nome estão reunidos
+HPD2; Cânticos de Entrada; hpd336; lci025; Quando o povo se reúne
+HPD2; Cânticos de Entrada; hpd337; lci026; Reunidos aqui
+HPD2; Cânticos de Entrada; hpd338; lci; Onde dois ou três
+HPD2; Kyrie; hpd339; lci; Kyrie - Simei Monteiro
+HPD2; Kyrie; hpd340; lci; Kyrie guarani
+HPD2; Kyrie; hpd341; lci063; Tem piedade - Simei Monteiro
+HPD2; Kyrie; hpd342; lci; Kyrie eleison
+HPD2; Kyrie; hpd343; lci058; Tem piedade - Louis Marcelo Illenseer
+HPD2; Kyrie; hpd344; lci060; Tem piedade - Per Harling
+HPD2; Glória; hpd345; lci142; Glória demos ao Senhor!
+HPD2; Glória; hpd346; lci070; Glória - Jacques Berthier
+HPD2; Glória; hpd347; lci072; Glória - Pablo Sosa
+HPD2; Dignus est; hpd348; lci342; Dignus est - Gerhard Cartford
+HPD2; Cânticos intermediários; hpd349; lci081; Canto de louvor
+HPD2; Cânticos intermediários; hpd350; lci002; Que a graça do Senhor Jesus
+HPD2; Aleluia; hpd351; lci; Fala, Senhor
+HPD2; Aleluia; hpd352; lci; Aleluia
+HPD2; Aleluia; hpd353; lci188; Ale, ale, aleluia
+HPD2; Aclamação; hpd354; lci; Glória te seja dada, ó Senhor
+HPD2; Credo; hpd355; lci194; Cremos em Deus
+HPD2; Ofertório; hpd356; lci; Pai nosso, pão nosso
+HPD2; Ofertório; hpd357; lci282; Santo mistério
+HPD2; Ofertório; hpd358; lci272; Repartir
+HPD2; Ofertório; hpd359; lci; Te ofertamos
+HPD2; Santo; hpd360; lci241; Santo és tu
+HPD2; Santo; hpd361; lci235; Santo é você, Senhor
+HPD2; Santo; hpd362; lci239; Santo é o nosso Deus
+HPD2; Santo; hpd363; lci244; Santo, santo, santo
+HPD2; Santo; hpd364; lci237; Santo, santo, santo. Meu coração te adora
+HPD2; Epiclese; hpd365; lci; Vem, Espírito Santo, vem, nos congregar
+HPD2; Epiclese; hpd366; lci252; Vem, Espírito Santo
+HPD2; Epiclese; hpd367; lci250; Envia teu Espírito
+HPD2; Gesto da Paz; hpd368; lci263; Paz, paz de Cristo
+HPD2; Gesto da Paz; hpd369; lci260; Gesto da paz
+HPD2; Agnus Dei; hpd370; lci269; Cordeiro de Deus
+HPD2; Agnus Dei; hpd371; lci268; Cordeiro de Deus
+HPD2; Hosana; hpd372; lci421; Hosana hey
+HPD2; Bênção e envio; hpd373; lci286; Deus te abençoe, Deus te proteja
+HPD2; Bênção e envio; hpd374; lci306; Vamos agora em paz
+HPD2; Bênção e envio; hpd375; lci; Thuma mina
+HPD2; Bênção e envio; hpd376; lci; Seja deus gracioso
+HPD2; Bênção e envio; hpd377; lci262; A paz do Senhor
+HPD2; Bênção e envio; hpd378; lci; Abençoe-vos o Deus
+HPD2; Palavra de Deus, Pregação; hpd379; lci165; Pronto para ouvir
+HPD2; Palavra de Deus, Pregação; hpd380; lci; A tua palavra é semente e tu és o semeador
+HPD2; Palavra de Deus, Pregação; hpd381; lci152; Pela palavra de Deus
+HPD2; Salmos; hpd382; lci; Salmo 1 - Feliz aquele que tem seu prazer na lei de Deus
+HPD2; Salmos; hpd383; lci087; Salmo 19 - A lei do Senhor é perfeita
+HPD2; Salmos; hpd384; lci092; Salmo 24 - Exaltar-te-ei, ó meu Deus meu Rei
+HPD2; Salmos; hpd385; lci093; Salmo 25 - A Ti, Senhor, elevo minha alma
+HPD2; Salmos; hpd386; lci108; Salmo 66 - Bendito seja Deus, que não rekeita a oração
+HPD2; Salmos; hpd387; lci; Salmo 68 - Eis a procissão do Rei, nosso Deus
+HPD2; Salmos; hpd388; lci; Salmo 80 - Eis que de longe vem o Senhor
+HPD2; Salmos; hpd389; lci115; Salmo 91 - O que habita no abrigo de Deus
+HPD2; Salmos; hpd390; lci117; Salmo 92 - Como a palmeira florescerá o justo
+HPD2; Salmos; hpd391; lci125; Salmo 106 - Rendei graças ao Senhor
+HPD2; Salmos; hpd392; lci128; Salmo 118 - Aleluia, rendei graças ao Senhor
+HPD2; Salmos; hpd393; lci130; Salmo 121 - Para os montes olharei, de onde vem a salvação?
+HPD2; Salmos; hpd394; lci; Salmo 122 - Alegrei-me quando me disseram
+HPD2; Salmos; hpd395; lci; Salmo 133 - Vejam que belo, como é tão bom
+HPD2; Salmos; hpd396; lci; Salmo 148 - Alabemos al Señor, aleluya, aleluya
+HPD2; Textos Bíblicos; hpd397; lci159; Meu mandamento
+HPD2; Textos Bíblicos; hpd398; lci153; Alegrai-vos sempre
+HPD2; Textos Bíblicos; hpd399; lci156; Ainda que eu fale as linguas dos homens
+HPD2; Textos Bíblicos; hpd400; lci; Bem aventurados
+HPD2; Textos Bíblicos; hpd401; lci175; Salvação
+HPD2; Ceia do Senhor; hpd402; lci271; A mesa posta
+HPD2; Ceia do Senhor; hpd403; lci; Oração de mesa
+HPD2; Ceia do Senhor; hpd404; lci; A ceia do senhor
+HPD2; Ceia do Senhor; hpd405; lci; Por um pedaço de pão
+HPD2; Ceia do Senhor; hpd406; lci; Comunhão
+HPD2; Ceia do Senhor; hpd407; lci277; O grão
+HPD2; Confissão dos Pecados; hpd408; lci031; Tem misericórdia
+HPD2; Confissão dos Pecados; hpd409; lci049; Confissão
+HPD2; Fé e Justficação; hpd410; lci619; Meu bom pastor
+HPD2; Santificação, Discipulado e Serviço; hpd411; lci632; Jesus ao lado
+HPD2; Santificação, Discipulado e Serviço; hpd412; lci; Amizade
+HPD2; Santificação, Discipulado e Serviço; hpd413; lci320; Senhor, se tu me chamas
+HPD2; Santificação, Discipulado e Serviço; hpd414; lci588; Cantar do amor
+HPD2; Santificação, Discipulado e Serviço; hpd415; lci609; Palavra não feita para dividir
+HPD2; Santificação, Discipulado e Serviço; hpd416; lci; Força jovem
+HPD2; Santificação, Discipulado e Serviço; hpd417; lci; Igreja que serve
+HPD2; Santificação, Discipulado e Serviço; hpd418; lci; Uma canção de amizade
+HPD2; Santificação, Discipulado e Serviço; hpd419; lci; Na mesa do Senhor
+HPD2; Santificação, Discipulado e Serviço; hpd420; lci; Queria um anjo
+HPD2; Santificação, Discipulado e Serviço; hpd421; lci033; Eu quero ser
+HPD2; Santificação, Discipulado e Serviço; hpd422; lci; Comece em sua casa
+HPD2; Santificação, Discipulado e Serviço; hpd423; lci208; Ao orarmos, Senhor
+HPD2; Santificação, Discipulado e Serviço; hpd424; lci206; O pão nosso
+HPD2; Santificação, Discipulado e Serviço; hpd425; lci; Repartir
+HPD2; Santificação, Discipulado e Serviço; hpd426; lci; A gota d'água
+HPD2; Santificação, Discipulado e Serviço; hpd427; lci209; Senhor, oramos agora
+HPD2; Santificação, Discipulado e Serviço; hpd428; lci; De uma pequena semente
+HPD2; Santificação, Discipulado e Serviço; hpd429; lci596; Mutirão da vida
+HPD2; Santificação, Discipulado e Serviço; hpd430; lci; Servi uns aos outros
+HPD2; Santificação, Discipulado e Serviço; hpd431; lci; Sabor e brilho
+HPD2; Esperança de Transformação; hpd432; lci575; Canção da caminhada
+HPD2; Esperança de Transformação; hpd433; lci592; A nova canção
+HPD2; Esperança de Transformação; hpd434; lci605; Momento novo
+HPD2; Esperança de Transformação; hpd435; lci176; Dizei aos cativos
+HPD2; Esperança de Transformação; hpd436; lci586; Convite à liberdade
+HPD2; Esperança de Transformação; hpd437; lci; Quando o Espírito de Deus soprou
+HPD2; Esperança de Transformação; hpd438; lci613; Canto da esperança
+HPD2; Esperança de Transformação; hpd439; lci524; Xote da vitória
+HPD2; Esperança de Transformação; hpd440; lci; Gente que espera
+HPD2; Esperança de Transformação; hpd441; lci522; Um pouco além do presente
+HPD2; Esperança de Transformação; hpd442; lci; A canção do Senhor
+HPD2; Esperança de Transformação; hpd443; lci; Resistência
+HPD2; Esperança de Transformação; hpd444; lci; Peregrinos
+HPD2; Missão e Evangelização; hpd445; lci; El cielo canta
+HPD2; Missão e Evangelização; hpd446; lci591; Arde a voz em meu peito
+HPD2; Missão e Evangelização; hpd447; lci; Ah, se eu tivesse
+HPD2; Missão e Evangelização; hpd448; lci584; Pedro
+HPD2; Missão e Evangelização; hpd449; lci566; Que estou fazendo?
+HPD2; Missão e Evangelização; hpd450; lci; Convite do Salvador
+HPD2; Amor a Deus; hpd451; lci; Meu coração transborda
+HPD2; Amor a Deus; hpd452; lci; Senhor, eu quero amar-te
+HPD2; Confiança em Deus; hpd453; lci595; Nada te turbe
+HPD2; Confiança em Deus; hpd454; lci166; Minha força
+HPD2; Confiança em Deus; hpd455; lci640; Cada dia o dia inteiro
+HPD2; Confiança em Deus; hpd456; lci155; Deus é meu amparo
+HPD2; Confiança em Deus; hpd457; lci; Em nome do Senhor
+HPD2; Confiança em Deus; hpd458; lci; Entrega
+HPD2; Confiança em Deus; hpd459; lci205; Oração da Igreja
+HPD2; Confiança em Deus; hpd460; lci626; Conta as bênçãos
+HPD2; Confiança em Deus; hpd461; lci636; Tão longe
+HPD2; Confiança em Deus; hpd462; lci; Por melhor que seja alguém
+HPD2; Confiança em Deus; hpd463; lci305; Caminhamos pela luz
+HPD2; Graça, Louvor e Adoração; hpd464; lci074; Tuya es la gloria
+HPD2; Graça, Louvor e Adoração; hpd465; lci; Aleluia, aleluia, aleluia, canto a ti, Senhor
+HPD2; Graça, Louvor e Adoração; hpd466; lci; As maravilhas do Senhor
+HPD2; Graça, Louvor e Adoração; hpd467; lci077; Canta ao Senhor
+HPD2; Graça, Louvor e Adoração; hpd468; lci161; Cantem, pois a vitória é ganha
+HPD2; Graça, Louvor e Adoração; hpd469; lci579; Bendito o cordeiro
+HPD2; Graça, Louvor e Adoração; hpd470; lci; Desde o princípio
+HPD2; Graça, Louvor e Adoração; hpd471; lci526; Glória ao cordeiro
+HPD2; Graça, Louvor e Adoração; hpd472; lci069; Povos da terra, louvai ao Senhor
+HPD2; Graça, Louvor e Adoração; hpd473; lci020; Em tua presença
+HPD2; Graça, Louvor e Adoração; hpd474; lci171; Ontem ele foi, hoje ele é
+HPD2; Graça, Louvor e Adoração; hpd475; lci367; Nome glorioso
+HPD2; Graça, Louvor e Adoração; hpd476; lci; Saudai ao Senhor
+HPD2; Manhã; hpd477; lci; Despunta el alba
+HPD2; Manhã; hpd478; lci336; Logo de manhã
+HPD2; Matrimônio, Lar e Profissão; hpd479; lci; Pela força do amor
+HPD2; Matrimônio, Lar e Profissão; hpd480; lci; Se o senhor não edificar
+HPD2; Meio Ambiente; hpd481; lci; Preservação
+HPD2; Meio Ambiente; hpd482; lci; Irmão sol, irmã luz
+HPD2; Meio Ambiente; hpd483; lci; Passeando e admirando
+HPD2; Para Crianças; hpd484; lci; A criança e o reino
+HPD2; Para Crianças; hpd485; lci534; Salmo 92 - É bom dar graças
+HPD2; Para Crianças; hpd486; lci532; Arrumando o mundo
+HPD2; Para Crianças; hpd487; lci545; Deus te ama e eu te amo
+HPD2; Para Crianças; hpd488; lci; A pesca milagrosa
+HPD2; Para Crianças; hpd489; lci; Sou criança
+HPD2; Para Crianças; hpd490; lci; A boa colheita
+HPD2; Para Crianças; hpd491; lci554; Crianças do reino
+HPD2; Para Crianças; hpd492; lci; Com fé e esperança
